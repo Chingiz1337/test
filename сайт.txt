@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Мое резюме</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+    }
+    
+    h1 {
+      text-align: center;
+    }
+    
+    img {
+      display: block;
+      margin: 0 auto;
+      width: 200px;
+      border-radius: 50%;
+    }
+    
+    table {
+      margin: 20px auto;
+      border-collapse: collapse;
+    }
+    
+    th, td {
+      padding: 10px;
+      border: 1px solid black;
+    }
+  </style>
+</head>
+<body>
+  <h1>Мое резюме</h1>
+  
+  <img src="https://img.hhcdn.ru/photo/723386314.jpeg?t=1689666851&h=FVTedC9NPlcZvBKpi6SfaQ" alt="Фото">
+  
+  <p>
+    <br>
+    Предоставляю доступ на мой проект по тестированию:
+    <a href="https://docs.google.com/document/d/16cLifs23bdE4wiHkDtAzYsN2feUnT3TtiFkEu_BqZUQ/edit?usp=sharing">Ссылка на проект</a>
+    <br>
+    - Хороший коммуникатор: легко нахожу общий язык с коллегами, умею слушать и слышать собеседника, быстро адаптируюсь к новому окружению и умею подстраиваться под ситуацию;
+    <br>
+    - Быстро обучаем: стремительно впитываю новую информацию и затем активно использую её в работе. Хотел бы повышать свой уровень знаний в тестирование. Готов к выполнению тестовых заданий;
+    <br>
+    - Имею аналитический склад ума, люблю разбираться в сути задачи, искать первопричины явлений. Внимателен к деталям;
+    <br>
+    - Способен эффективно работать, как в команде, так и самостоятельно. С готовностью делюсь опытом и оказываю поддержку коллегам.
+  </p>
+  
+  <table>
+    <tr>
+      <th>Образование</th>
+      <th>Опыт работы</th>
+    </tr>
+    <tr>
+      <td>Учитель начальных классов, курсы переквалификации SkyPro</td>
+      <td>RidhtLine, Младший тестировщик, 2022-2023</td>
+    </tr>
+  </table>
+</body>
+</html>
