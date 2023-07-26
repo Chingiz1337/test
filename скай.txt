@@ -1,0 +1,23 @@
+Локатор логотипа SkyPro 
+<div _ngcontent-lpr-c68="" class="root"><img _ngcontent-lpr-c68="" class="logo-image" src="5987ea2b7acbe5e5379157f8c4f0fb7f.svg"></div>
+xpath //img[@class='logo-image']
+Локатор посчитанного количества курсов на своей странице
+<img _ngcontent-lpr-c151="" class="expandable-icon" src="75770a99161ad86ce4a41fd0f2a5f676.svg">
+xpath //img[@class='expandable-icon']
+Локатор перехода «Пригласи друга»
+<a _ngcontent-lpr-c78="" routerlinkactive="-active" target="_blank" class="header-item -invite-friend" href="/student-cabinet/referrals?utm_source=referral&amp;utm_medium=free&amp;utm_campaign=n_referral_menu_button_unlit%7Cpr_171%7Cfu_product%7Cma_kumykova%7Cown_b2c%7Ccnt_RU%7Cbr_Skypro%7Cchg_referral_program%7Cdt_2023-05-22"> Пригласи друга </a>
+xpath //a[@class='header-item -invite-friend']
+Локатор текста «Друг перейдет по вашей ссылке и оставит заявку на курс
+<span _ngcontent-dva-c82=""> Зарегистрироваться в&nbsp;программе </span>
+xpath //div[@class='register-button-content']
+Локатор третьего раскрывающего элемента в разделе «Частые вопросы»
+<div _ngcontent-ktg-c85="" class="root ng-tns-c85-2 -opened"><div _ngcontent-ktg-c85="" class="panel-header ng-tns-c85-2"><div _ngcontent-ktg-c85="" class="header-content ng-tns-c85-2">Сколько друзей можно привести?<!----></div><div _ngcontent-ktg-c85="" class="expander ng-tns-c85-2"><!----><ds-icon _ngcontent-ktg-c85="" class="expander-arrow ng-tns-c85-2" _nghost-ktg-c55=""><!----><div _ngcontent-ktg-c55="" class="svg-content ng-star-inserted"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10ZM8.707 9.543 12 12.836l3.293-3.293 1.414 1.414-4 4a1 1 0 0 1-1.414 0l-4-4 1.414-1.414Z"></path></svg></div><!----></ds-icon></div></div><div _ngcontent-ktg-c85="" class="panel-content ng-tns-c85-2 ng-trigger ng-trigger-expand" style=""><div _ngcontent-ktg-c85="" class="content ng-tns-c85-2"><div _ngcontent-ktg-c86="" class="ng-tns-c85-2">Сколько угодно: мы&nbsp;не&nbsp;ограничиваем количество.
+        Вы&nbsp;получите по&nbsp;10% с&nbsp;каждой покупки.</div><!----></div></div></div>
+xpath //div[@class='header-content ng-tns-c85-2' and text()='Сколько друзей можно привести?']
+
+
+Ссылка на логотип SkyPro https://my.sky.pro/5987ea2b7acbe5e5379157f8c4f0fb7f.svg
+Ссылка на вашего аватара https://my.sky.pro/ea3302c05ddec8fbd920408f9c1338d4.svg
+Ссылка на картинки с изображением техлида, для этого перейдите в урок «Тестирование веб-приложений», далее — «План урока» "https://skills-s3-prod.s3.eu-central-1.amazonaws.com/skypro/image/png/2022/09/08/4652052_2022/09/08%2004:16:0563196c8591dd97.59831894dummy.png
+"https://skills-s3-prod.s3.eu-central-1.amazonaws.com/skypro/image/png/2022/09/08/4652052_2022/09/08%2004:16:0563196c8591dd97.59831894dummy.png
+
