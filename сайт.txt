@@ -33,7 +33,8 @@
 <body>
   <h1>Мое резюме</h1>
   
-  <img src="https://img.hhcdn.ru/photo/723386314.jpeg?t=1689666851&h=FVTedC9NPlcZvBKpi6SfaQ" alt="Фото">
+  <img src="https://img.hhcdn.ru/phot
+  o/723386314.jpeg?t=1689666851&h=FVTedC9NPlcZvBKpi6SfaQ" alt="Фото">
   
   <p>
     <br>
